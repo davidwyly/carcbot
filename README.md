@@ -32,3 +32,13 @@
 | Sensors        | camera, nightvision camera, thermal camera, laser mapper, echolocator, heartbeat sensor, RADAR, SONAR, etc. |
 | Computer       | X100, X200, X300, X400, X500, Basic AI, Advanced AI, Synaptic AI, Hypersynaptic AI, Sentient AI, etc. |
 | Utility        | plasma cutter, grappling hook, drill, plastic explosives, etc. |
+
+### Locomotion Type
+| Name             | Size    | Speed | Land | Rocks | Sea | Air | Stairs | Jumps | Climbs |
+| ---------------- | ------- | ----- | ---- | ----- | --- | --- | ------ | ----- | ------ |
+| wheels           | 1, 2, 3 | 5     |  X   |       |     |     |        |       |        |
+| tracks           | 1, 2, 3 | 3     |  X   |   X   |     |     |        |       |        |
+| bipedal legs     | 1, 2    | 2     |  X   |   X   |     |     |  X     | X     |        |
+| quadrupedal legs | 2, 3    | 3     |  X   |   X   |     |     |  X     | X     | X      |
+| spider legs      | 1, 2, 3 | 4     |  X   |   X   |     |     |  X     | X     | X      |
+| 
