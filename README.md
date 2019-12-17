@@ -41,4 +41,8 @@
 | bipedal legs     | 1, 2    | 2     |  X   |   X   |     |     |  X     | X     |        |
 | quadrupedal legs | 2, 3    | 3     |  X   |   X   |     |     |  X     | X     | X      |
 | spider legs      | 1, 2, 3 | 4     |  X   |   X   |     |     |  X     | X     | X      |
-| 
+| hoverfield       | 1, 2, 3 | 3     |  X   |       | X   |     |        |       |        |
+| propeller        | 1, 2, 3 | 1     |      |       | X   |     |        |       |        |
+| rotor blades     | 1, 2    | 7     |      |       |     | X   |        |       |        |
+| jet thruster     | 2, 3    | 8     |      |       |     | X   |        |       |        |
+| plasma thruster  | 2, 3    | 9     |      |       |     | X   |        |       |        |
